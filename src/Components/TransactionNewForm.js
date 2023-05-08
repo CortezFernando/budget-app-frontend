@@ -15,11 +15,6 @@ function TransactionNewForm() {
     const handleTextChange = (event) => {
       setNewTransaction({ ...newTransaction, [event.target.id]: event.target.value });
     };
-  
-    // const handleCheckboxChange = () => {
-    //   setNewTransaction({ ...newTransaction, isFavorite: !newTransaction.isFavorite });
-    // };
-  
     const handleSubmit = (event) => {
       event.preventDefault();
       axios

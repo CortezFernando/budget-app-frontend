@@ -4,7 +4,6 @@ function Transaction({ trans }) {
    
   return (
     <tr>
-    {/* // <h1>Hello</h1> */}
        <td>
          {trans.date ? (
              <span>{trans.date}</span>

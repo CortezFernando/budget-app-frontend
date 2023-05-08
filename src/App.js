@@ -2,7 +2,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
 import NavBar from './Components/NavBar'
 import TransactionOne from './Components/TransactionOne';
-// import TransactionNewForm from './Components/TransactionNewForm';
 import Home from './Pages/Home'
 import New from "./Pages/New";
 import Index from './Pages/Index'

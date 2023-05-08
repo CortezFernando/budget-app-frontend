@@ -2,8 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Link to server = https://playful-malasada-a0f81d.netlify.app/
 
+## deployment link and link to backend
+Link to server = https://playful-malasada-a0f81d.netlify.app/
+link to back end for the project = https://budget-app-backend-aqgi.onrender.com
 
 ## Available Scripts
 
